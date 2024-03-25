@@ -1,0 +1,13 @@
+.heatmap-container {
+    margin-top: 20px;
+  }
+  
+  .heatmap-container .heatmap {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .heatmap-container .heatmap canvas {
+    display: block;
+  }
