@@ -1,6 +1,8 @@
 # Run project
-```bash
+```
 pnpm run dev
+```
+
 
 
 
